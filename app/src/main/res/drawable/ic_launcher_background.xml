@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#0B0819" />
+                <item android:offset="0.5" android:color="#160F2C" />
+                <item android:offset="1.0" android:color="#241445" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle starfield dots in background -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M24,28a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0 M82,24a1,1 0 1,0 2,0a1,1 0 1,0 -2,0 M88,78a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0 M20,80a1,1 0 1,0 2,0a1,1 0 1,0 -2,0 M54,18a0.8,0.8 0 1,0 1.6,0a0.8,0.8 0 1,0 -1.6,0 M54,90a0.8,0.8 0 1,0 1.6,0a0.8,0.8 0 1,0 -1.6,0" />
+</vector>

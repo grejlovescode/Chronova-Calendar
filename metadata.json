@@ -1,0 +1,6 @@
+{
+  "name": "Chronova",
+  "description": "The Universal Calendar — bringing together holidays, religious observances, cultural traditions, and historical events worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

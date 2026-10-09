@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Celestial Orbit Ring -->
+    <path
+        android:strokeColor="#80A78BFA"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,54A22,22 0 1,1 76,54A22,22 0 1,1 32,54" />
+
+    <!-- Calendar Card Base -->
+    <path
+        android:fillColor="#1F1A3A"
+        android:pathData="M34,36h40c2.2,0 4,1.8 4,4v36c0,2.2 -1.8,4 -4,4h-40c-2.2,0 -4,-1.8 -4,-4v-36c0,-2.2 1.8,-4 4,-4z" />
+    
+    <!-- Calendar Card Header Banner -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M34,36h40c2.2,0 4,1.8 4,4v10h-48v-10c0,-2.2 1.8,-4 4,-4z" />
+
+    <!-- Calendar Rings / Pins -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M43,32h4v8h-4z M61,32h4v8h-4z" />
+
+    <!-- Calendar Grid / Days Accent -->
+    <!-- Sun and Moon Emblem in Center of Calendar -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,60a6,6 0 1,0 0.001,0z" />
+
+    <!-- Crescent Moon Overlay Accent -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M55,56a5.5,5.5 0 0,1 4,5.2a5.5,5.5 0 0,1 -6,5.3a6.2,6.2 0 0,0 3.2,-1.5a6.2,6.2 0 0,0 1.8,-4.2a6,6 0 0,0 -3,-4.8z" />
+
+    <!-- Sparkle Stars -->
+    <path
+        android:fillColor="#FDF4DC"
+        android:pathData="M40,68l1,2l2,1l-2,1l-1,2l-1,-2l-2,-1l2,-1z M68,66l0.8,1.5l1.5,0.8l-1.5,0.8l-0.8,1.5l-0.8,-1.5l-1.5,-0.8l1.5,-0.8z" />
+
+    <!-- Calendar Base Border -->
+    <path
+        android:strokeColor="#C4B5FD"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M34,36h40c2.2,0 4,1.8 4,4v36c0,2.2 -1.8,4 -4,4h-40c-2.2,0 -4,-1.8 -4,-4v-36c0,-2.2 1.8,-4 4,-4z" />
+</vector>
